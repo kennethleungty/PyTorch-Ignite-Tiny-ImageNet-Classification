@@ -1,3 +1,6 @@
+# Tiny ImageNet data
+tiny-imagenet/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
