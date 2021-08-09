@@ -1,1 +1,1 @@
-# Tiny-ImageNet-Classification-PyTorch
+# Tiny ImageNet Classification Exercise with PyTorch
